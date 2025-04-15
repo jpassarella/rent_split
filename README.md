@@ -7,7 +7,7 @@ So 27.82 -> 2782
 3.01 -> 301 (But this doesnt work with odd final digits right now, though that should be a quick change.)  
 
 Ultimately though, I realized this could be a simple program that asks users questions like the following:  
-If the rent split was X dollars for room A and Y dollars for room B, then which room would you want.  
+If the rent split was X dollars for room A and Y dollars for room B, then which room would you want?  
 A few binary searches (or something similar) later and you hone in on the exact equilibrium value.
 
 If the roommate does the same thing, a simple average would give a somewhat fair split of rent.
